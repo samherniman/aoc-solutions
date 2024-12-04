@@ -1,0 +1,10 @@
+[project]
+name = "aoc-solutions"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pip>=24.3.1",
+    "polars>=1.16.0",
+]
